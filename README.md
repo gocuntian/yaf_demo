@@ -10,5 +10,7 @@
 
 4.重启Webserver;
 
-5.访问http://yourhost/demo/,出现Hellow Word!, 表示运行成功,否则请查看php错误日志
+5.访问http://yourhost,出现Hellow Word!, 表示运行成功,否则请查看php错误日志
+
+6.运行 php http_server.php http://yourhost:9502
 
